@@ -21,7 +21,7 @@ Ini adalah game incremental yang dimana progress user sudah di simpan di local m
 ## Version History
 * 1.0
 
-#Branch List
+## Branch List
 * Incremental-local, Untuk tugas 1
   [here](https://github.com/Fathursyafeei/Incremental_Firebase/tree/Incremental_local)
 * Incremental-cloud,Untuk tugas 2

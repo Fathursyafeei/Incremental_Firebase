@@ -19,7 +19,7 @@ Ini adalah game incremental yang dimana progress user sudah di simpan di local m
 * [Muhammad Faturahman Bancin](https://www.instagram.com/art.of.fatur)
 
 ## Version History
-* 1.0
+* 1.1
 
 ## Branch List
 * Incremental-local, Untuk tugas 1
